@@ -1,6 +1,6 @@
 # gulp-geojson
 
-[![Build Status](https://travis-ci.org/chilijung/gulp-geojson.png?branch=master)](https://travis-ci.org/chilijung/gulp-geojson)
+[![Build Status](https://travis-ci.org/DataGarage/gulp-geojson.png?branch=master)](https://travis-ci.org/DataGarage/gulp-geojson)
 
 Converting multipule geo file format to geojson using gulp.
 
