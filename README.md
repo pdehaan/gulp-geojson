@@ -11,6 +11,15 @@ npm install --save-dev gulp-geojson
 ```
 
 
+## Support
+
+- kml
+- csv
+- tsv
+- topojson
+- gpx 
+
+
 ## Example
 
 ```js
