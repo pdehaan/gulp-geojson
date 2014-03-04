@@ -2,13 +2,19 @@
   "name": "gulp-geojson",
   "version": "0.1.2",
   "description": "convert multipule file format to geojson.",
-  "repository": "https://github.com/DataGarage/gulp-geojson",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DataGarage/gulp-geojson"
+  },
+  "homepage": "https://github.com/DataGarage/gulp-geojson/",
+  "bugs": "https://github.com/DataGarage/gulp-geojson/issues/",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha"
   },
   "keywords": [
     "gulp",
+    "gulpplugin",
     "geo",
     "geojson"
   ],
